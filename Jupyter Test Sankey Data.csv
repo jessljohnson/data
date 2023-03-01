@@ -1,0 +1,96 @@
+source,value,target
+Illinois,8,Populus alba
+Illinois,219,Populus deltoides
+Illinois,42,Populus tremuloides
+Illinois,0,Other
+Michigan,0,Populus alba
+Michigan,106,Populus deltoides
+Michigan,86,Populus tremuloides
+Michigan,0,Other
+Wisconsin,0,Populus alba
+Wisconsin,285,Populus deltoides
+Wisconsin,70,Populus tremuloides
+Wisconsin,0,Other
+JGI,7,Arabidopsis
+UChicago,2,Camelina
+,,
+,,
+Populus alba,1,Chryseobacterium
+Populus alba,7,Pseudomonas
+Populus alba,0,Agrobacterium
+Populus alba,0,Agromyces
+Populus alba,0,Bacillus
+Populus alba,0,Brevundimonas
+Populus alba,0,Buttiauxella
+Populus alba,0,Caulobacter
+Populus alba,0,Chitinophaga
+Populus alba,0,Flavobacterium
+Populus alba,0,Janthinobacterium
+Populus alba,0,Kinneretia
+Populus alba,0,Lysobacter
+Populus alba,0,Mitsuaria
+Populus alba,0,not determined
+Populus alba,0,Ochrobactrum
+Populus alba,0,Pedobacter
+Populus alba,0,Pseudarthrobacter
+Populus alba,0,Ralstonia
+Populus alba,0,Rhizobium
+Populus alba,0,Sphingobium
+Populus alba,0,Streptomyces
+Populus alba,0,Variovorax
+,,
+Populus deltoides,3,Agromyces
+Populus deltoides,14,Bacillus
+Populus deltoides,11,Buttiauxella
+Populus deltoides,1,Caulobacter
+Populus deltoides,3,Chitinophaga
+Populus deltoides,41,Chryseobacterium
+Populus deltoides,54,Flavobacterium
+Populus deltoides,6,Janthinobacterium
+Populus deltoides,9,Kinneretia
+Populus deltoides,4,Lysobacter
+Populus deltoides,46,Mitsuaria
+Populus deltoides,3,not determined
+Populus deltoides,7,Pedobacter
+Populus deltoides,27,Pseudarthrobacter
+Populus deltoides,344,Pseudomonas
+Populus deltoides,3,Sphingobium
+Populus deltoides,9,Streptomyces
+Populus deltoides,25,Variovorax
+Populus deltoides,0,Agrobacterium
+Populus deltoides,0,Brevundimonas
+Populus deltoides,0,Ochrobactrum
+Populus deltoides,0,Ralstonia
+Populus deltoides,0,Rhizobium
+,,
+Populus tremuloides,2,Agromyces
+Populus tremuloides,13,Bacillus
+Populus tremuloides,3,Buttiauxella
+Populus tremuloides,1,Caulobacter
+Populus tremuloides,8,Chryseobacterium
+Populus tremuloides,22,Flavobacterium
+Populus tremuloides,3,Kinneretia
+Populus tremuloides,10,Mitsuaria
+Populus tremuloides,1,not determined
+Populus tremuloides,5,Pseudarthrobacter
+Populus tremuloides,130,Pseudomonas
+Populus tremuloides,0,Agrobacterium
+Populus tremuloides,0,Brevundimonas
+Populus tremuloides,0,Chitinophaga
+Populus tremuloides,0,Janthinobacterium
+Populus tremuloides,0,Lysobacter
+Populus tremuloides,0,Ochrobactrum
+Populus tremuloides,0,Pedobacter
+Populus tremuloides,0,Ralstonia
+Populus tremuloides,0,Rhizobium
+Populus tremuloides,0,Sphingobium
+Populus tremuloides,0,Streptomyces
+Populus tremuloides,0,Variovorax
+,,
+Arabidopsis,1,Agrobacterium
+Arabidopsis,1,Brevundimonas
+Arabidopsis,1,Ochrobactrum
+Arabidopsis,2,Pseudomonas
+Arabidopsis,1,Ralstonia
+Arabidopsis,1,Rhizobium
+Camelina ,2,Pseudomonas
